@@ -1,0 +1,7 @@
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\bin\Debug\University System By C#.exe.config
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\bin\Debug\University System By C#.exe
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\bin\Debug\University System By C#.pdb
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\obj\Debug\University System By C#.csproj.AssemblyReference.cache
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\obj\Debug\University System By C#.csproj.CoreCompileInputs.cache
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\obj\Debug\University System By C#.exe
+B:\Project Enactus\Project ENACTUS\University System By C#\University System By C#\obj\Debug\University System By C#.pdb
